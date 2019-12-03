@@ -1,0 +1,226 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="b8eade02-f7eb-4859-a842-e53c8b587a8b" name="Default Changelist" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand />
+    <select />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1THpSJv4HjSx31JnHYtoj7uiXDe" />
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$USER_HOME$/eclipse-workspace/WEB_SERVLET" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="run.code.analysis.last.selected.profile" value="pProject Default" />
+    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Application.main (1)">
+    <configuration name="ExapleException" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="exception.ExapleException" />
+      <module name="JavaCore" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="exception.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="collection" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="collection.collection" />
+      <module name="JavaCore" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="collection.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="main (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="BookManagement.main" />
+      <module name="JavaCore" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="BookManagement.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="main (2)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="oopAbstract.main" />
+      <module name="JavaCore" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="oopAbstract.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="scope.main" />
+      <module name="JavaCore" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="scope.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.main (1)" />
+        <item itemvalue="Application.ExapleException" />
+        <item itemvalue="Application.collection" />
+        <item itemvalue="Application.main" />
+        <item itemvalue="Application.main (2)" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="b8eade02-f7eb-4859-a842-e53c8b587a8b" name="Default Changelist" comment="" />
+      <created>1573126873380</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1573126873380</updated>
+      <workItem from="1573126875612" duration="8881000" />
+      <workItem from="1573214367079" duration="1820000" />
+      <workItem from="1573225242876" duration="2240000" />
+      <workItem from="1573277389691" duration="3343000" />
+      <workItem from="1573300158316" duration="3050000" />
+      <workItem from="1573351287073" duration="2281000" />
+      <workItem from="1573384393401" duration="95000" />
+      <workItem from="1573396955432" duration="2857000" />
+      <workItem from="1573470281674" duration="658000" />
+      <workItem from="1573472298817" duration="685000" />
+      <workItem from="1573473606446" duration="465000" />
+      <workItem from="1573474219750" duration="7130000" />
+      <workItem from="1573487480942" duration="3962000" />
+      <workItem from="1573537259352" duration="4455000" />
+      <workItem from="1573559344988" duration="3082000" />
+      <workItem from="1573569654012" duration="575000" />
+      <workItem from="1573631892965" duration="701000" />
+      <workItem from="1573645209402" duration="595000" />
+      <workItem from="1573916050084" duration="2263000" />
+      <workItem from="1574323794322" duration="523000" />
+      <workItem from="1574334734878" duration="8983000" />
+      <workItem from="1574352813714" duration="751000" />
+      <workItem from="1574423660091" duration="2302000" />
+      <workItem from="1574435952403" duration="4811000" />
+      <workItem from="1574522605233" duration="597000" />
+      <workItem from="1574557358121" duration="4895000" />
+      <workItem from="1574569207501" duration="2849000" />
+      <workItem from="1574591018983" duration="6160000" />
+      <workItem from="1574680529501" duration="9707000" />
+      <workItem from="1574867909437" duration="563000" />
+      <workItem from="1574874449917" duration="1303000" />
+      <workItem from="1574941055624" duration="8565000" />
+      <workItem from="1575005762445" duration="579000" />
+      <workItem from="1575027317918" duration="9352000" />
+      <workItem from="1575042296552" duration="755000" />
+      <workItem from="1575091412662" duration="5195000" />
+      <workItem from="1575114147426" duration="1654000" />
+      <workItem from="1575178367768" duration="1634000" />
+      <workItem from="1575285625465" duration="721000" />
+      <workItem from="1575286532061" duration="110000" />
+      <workItem from="1575286691675" duration="8920000" />
+      <workItem from="1575299216310" duration="12224000" />
+      <workItem from="1575350787080" duration="308000" />
+      <workItem from="1575351272497" duration="1245000" />
+      <workItem from="1575362433871" duration="5391000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/clickBall/main.java</url>
+          <line>3</line>
+          <properties class="clickBall.main" method="main">
+            <option name="EMULATED" value="true" />
+          </properties>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/scope/Dog.java</url>
+          <line>33</line>
+          <option name="timeStamp" value="3" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/scope/Dog.java</url>
+          <line>36</line>
+          <option name="timeStamp" value="4" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/collection/collection.java</url>
+          <line>86</line>
+          <option name="timeStamp" value="6" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
