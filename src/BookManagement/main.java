@@ -11,7 +11,6 @@ public class main {
         Book book = new Book();
         T3hBookStore store = new T3hBookStore(books);
 
-
         int i = 0, Choice = 0;
         while (i == 0) {
             System.out.println("*********MENU************");
@@ -22,8 +21,8 @@ public class main {
             System.out.println("5. Xắp xếp sách");
             System.out.println("6. Thoát");
             System.out.println("\n***************************");
-            System.out.print("Hãy nhập vào điều mong ước của bạn: ");
-            Choice = scanner.nextInt();
+            System.out.print("Hãy nhập vào điều mong ước của bạn Chúng tôi sẽ thực hiện mong ước đó bởi một bà tiên củ chuối or chuối cả nải nào đó :  ");
+            Choice = store.inputNumber();
             switch(Choice) {
                 case 1:
                     System.out.println("Nhập số sinh viên trong danh sách : ");
@@ -64,7 +63,6 @@ public class main {
                         System.out.println("Sách Được thêm vào : \n" + store.addBook(n));
                     }else {
                         System.out.println("Hãy nhập vào tên tác giả sách mà bạn muốn tìm kiếm : ");
-                        scanner.nextLine();
                         String name = scanner.nextLine();
                         System.out.println("Quyển sách bạn muốn tìm là : \n" + store.findBookByAthor(name));
                     }

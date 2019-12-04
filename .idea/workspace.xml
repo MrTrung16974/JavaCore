@@ -1,7 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="b8eade02-f7eb-4859-a842-e53c8b587a8b" name="Default Changelist" comment="" />
+    <list default="true" id="b8eade02-f7eb-4859-a842-e53c8b587a8b" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/exercise/hasMapAndTreeMap.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaCore/BookManagement/main.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaCore/BookManagement/main.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/BookManagement/T3hBookStore.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/BookManagement/T3hBookStore.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/BookManagement/main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/BookManagement/main.java" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -30,8 +37,12 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="ProjectId" id="1THpSJv4HjSx31JnHYtoj7uiXDe" />
   <component name="PropertiesComponent">
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="last_opened_file_path" value="$USER_HOME$/eclipse-workspace/WEB_SERVLET" />
@@ -188,11 +199,29 @@
       <workItem from="1575350787080" duration="308000" />
       <workItem from="1575351272497" duration="1245000" />
       <workItem from="1575362433871" duration="5391000" />
+      <workItem from="1575378529963" duration="1091000" />
+      <workItem from="1575440378879" duration="66000" />
+      <workItem from="1575440758603" duration="218000" />
+      <workItem from="1575441729553" duration="3369000" />
+      <workItem from="1575458247240" duration="2723000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -214,11 +243,6 @@
           <url>file://$PROJECT_DIR$/src/scope/Dog.java</url>
           <line>36</line>
           <option name="timeStamp" value="4" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/collection/collection.java</url>
-          <line>86</line>
-          <option name="timeStamp" value="6" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>

@@ -8,7 +8,7 @@ import java.util.Scanner;
 public class T3hBookStore {
     Scanner scanner = new Scanner(System.in);
     private static String name= "T3h Book Store";
-    List<Book> bookList = new ArrayList<>();
+    List<Book> bookList;
 
 
     //    thêm dách vào kho sách
