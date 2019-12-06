@@ -2,12 +2,14 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="b8eade02-f7eb-4859-a842-e53c8b587a8b" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/exercise/hasMapAndTreeMap.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/EmployeeManager/Programmer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/EmployeeManager/Proofeader.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/EmployeeManager/main.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaCore/BookManagement/main.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaCore/BookManagement/main.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/BookManagement/T3hBookStore.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/BookManagement/T3hBookStore.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/BookManagement/main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/BookManagement/main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/exercise/hasMapAndTreeMap.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/exercise/hasMapAndTreeMap.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/studentManager/main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/studentManager/main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/studentManager/student.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/studentManager/student.java" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -45,7 +47,7 @@
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="$USER_HOME$/eclipse-workspace/WEB_SERVLET" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
     <property name="node.js.path.for.package.eslint" value="project" />
@@ -68,7 +70,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.main (1)">
+  <component name="RunManager" selected="Application.main (2)">
     <configuration name="ExapleException" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="exception.ExapleException" />
       <module name="JavaCore" />
@@ -109,11 +111,11 @@
       </method>
     </configuration>
     <configuration name="main (2)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="oopAbstract.main" />
+      <option name="MAIN_CLASS_NAME" value="EmployeeManager.main" />
       <module name="JavaCore" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="oopAbstract.*" />
+          <option name="PATTERN" value="EmployeeManager.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -121,12 +123,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="scope.main" />
+    <configuration name="main (3)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="studentManager.main" />
       <module name="JavaCore" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="scope.*" />
+          <option name="PATTERN" value="studentManager.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -136,11 +138,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.main (2)" />
         <item itemvalue="Application.main (1)" />
+        <item itemvalue="Application.main (3)" />
         <item itemvalue="Application.ExapleException" />
         <item itemvalue="Application.collection" />
-        <item itemvalue="Application.main" />
-        <item itemvalue="Application.main (2)" />
       </list>
     </recent_temporary>
   </component>
@@ -203,7 +205,14 @@
       <workItem from="1575440378879" duration="66000" />
       <workItem from="1575440758603" duration="218000" />
       <workItem from="1575441729553" duration="3369000" />
-      <workItem from="1575458247240" duration="2723000" />
+      <workItem from="1575458247240" duration="3323000" />
+      <workItem from="1575523113469" duration="322000" />
+      <workItem from="1575523789403" duration="34000" />
+      <workItem from="1575532508698" duration="2466000" />
+      <workItem from="1575545439158" duration="198000" />
+      <workItem from="1575610915182" duration="283000" />
+      <workItem from="1575611810304" duration="31000" />
+      <workItem from="1575630636891" duration="8489000" />
     </task>
     <servers />
   </component>
