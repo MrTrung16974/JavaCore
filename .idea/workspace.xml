@@ -2,14 +2,44 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="b8eade02-f7eb-4859-a842-e53c8b587a8b" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/EmployeeManager/Programmer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/EmployeeManager/Proofeader.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/EmployeeManager/main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/BookManageSystem/.idea/description.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/BookManageSystem/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/BookManageSystem/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/BookManageSystem/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/BookManageSystem/.idea/project-template.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/BookManageSystem/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/BookManageSystem/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/BookManageSystem/BookManageSystem.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/BookManageSystem/out/production/BookManageSystem/com/company/Author.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/BookManageSystem/out/production/BookManageSystem/com/company/Book.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/BookManageSystem/out/production/BookManageSystem/com/company/Main$1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/BookManageSystem/out/production/BookManageSystem/com/company/Main.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/BookManageSystem/out/production/BookManageSystem/com/company/MyBook.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/BookManageSystem/src/com/company/Author.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/BookManageSystem/src/com/company/Book.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/BookManageSystem/src/com/company/Category.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/BookManageSystem/src/com/company/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/BookManageSystem/src/com/company/MyBook.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/EmployeeManager/main1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/T3H/GameRescueThePrincess/Admin.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/T3H/GameRescueThePrincess/Dragon.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/T3H/GameRescueThePrincess/Hero.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/T3H/GameRescueThePrincess/Princess.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/T3H/GameRescueThePrincess/main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Transfare/acount.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Transfare/main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/checkYear/Date.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/checkYear/main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/electricBillManager/Customer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/electricBillManager/CustomerForeign.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/electricBillManager/CustomerVietnamese.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/electricBillManager/main.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/BookManagement/T3hBookStore.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/BookManagement/T3hBookStore.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/exercise/hasMapAndTreeMap.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/exercise/hasMapAndTreeMap.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/studentManager/main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/studentManager/main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/studentManager/student.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/studentManager/student.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaCore/BookManagement/main.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaCore/BookManagement/main.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaCore/EmployeeManager/main.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaCore/EmployeeManager/main.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaCore/META-INF/JavaCore.kotlin_module" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/BookManagement/main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/BookManagement/main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/EmployeeManager/main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/EmployeeManager/main.java" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -43,11 +73,15 @@
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectId" id="1THpSJv4HjSx31JnHYtoj7uiXDe" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$USER_HOME$/eclipse-workspace/WEB_SERVLET" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
     <property name="node.js.path.for.package.eslint" value="project" />
@@ -70,33 +104,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.main (2)">
-    <configuration name="ExapleException" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="exception.ExapleException" />
-      <module name="JavaCore" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="exception.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="collection" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="collection.collection" />
-      <module name="JavaCore" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="collection.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Application.main (5)">
     <configuration name="main (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="BookManagement.main" />
       <module name="JavaCore" />
@@ -123,12 +131,38 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="main (3)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="studentManager.main" />
+    <configuration name="main (4)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="checkYear.main" />
       <module name="JavaCore" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="studentManager.*" />
+          <option name="PATTERN" value="checkYear.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="main (5)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="electricBillManager.main" />
+      <module name="JavaCore" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="electricBillManager.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Transfare.main" />
+      <module name="JavaCore" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="electricBillManager.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -138,11 +172,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.main (5)" />
         <item itemvalue="Application.main (2)" />
+        <item itemvalue="Application.main (4)" />
+        <item itemvalue="Application.main" />
         <item itemvalue="Application.main (1)" />
-        <item itemvalue="Application.main (3)" />
-        <item itemvalue="Application.ExapleException" />
-        <item itemvalue="Application.collection" />
       </list>
     </recent_temporary>
   </component>
@@ -213,6 +247,13 @@
       <workItem from="1575610915182" duration="283000" />
       <workItem from="1575611810304" duration="31000" />
       <workItem from="1575630636891" duration="8489000" />
+      <workItem from="1575640905119" duration="107000" />
+      <workItem from="1575889921064" duration="10550000" />
+      <workItem from="1575905524426" duration="1696000" />
+      <workItem from="1575951548806" duration="844000" />
+      <workItem from="1575974368365" duration="6843000" />
+      <workItem from="1575982512093" duration="2975000" />
+      <workItem from="1575986427021" duration="331000" />
     </task>
     <servers />
   </component>
@@ -232,6 +273,9 @@
       </map>
     </option>
   </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+  </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
       <breakpoints>
@@ -242,6 +286,14 @@
             <option name="EMULATED" value="true" />
           </properties>
           <option name="timeStamp" value="1" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/EmployeeManager/main.java</url>
+          <line>3</line>
+          <properties class="EmployeeManager.main" method="main">
+            <option name="EMULATED" value="true" />
+          </properties>
+          <option name="timeStamp" value="5" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/scope/Dog.java</url>

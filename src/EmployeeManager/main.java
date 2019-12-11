@@ -13,8 +13,10 @@ public class main {
             int choose = employee1.intNumber();
             if(choose == 1) {
                 employee[i] = new Programmer();
-            }else {
+            }else if(choose == 2) {
                 employee[i] = new Proofeader();
+            }else {
+                System.out.println("Ko có loại nhân viên mà bạn muốn lựa chọn");
             }
             employee[i].input();
             employee[i].sumSalary();

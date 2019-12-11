@@ -25,7 +25,7 @@ public class main {
             Choice = store.inputNumber();
             switch(Choice) {
                 case 1:
-                    System.out.println("Nhập số sinh viên trong danh sách : ");
+                    System.out.println("Nhập số sách bạn muốn thêm vào : ");
                     int n = store.inputNumber();
                     System.out.println("Sách Được thêm vào : \n" + store.addBook(n));
                     break;
