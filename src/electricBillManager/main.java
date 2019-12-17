@@ -1,70 +1,60 @@
 package electricBillManager;
 
+import java.util.Arrays;
+import java.util.Scanner;
+
+
 public class main {
     public static void main(String[] args) {
-        int numberCustomerVN = 3, numberCustomerNG, sumAmountVN = 0, sumAmountNG = 0, mediumPrice = 0, totalPrice = 0;
-        Customer customer = new Customer();
-        System.out.print("Mời bạn nhập số khách hàng việt nam :  ");
-        numberCustomerVN = customer.intNumber();
-        System.out.println(numberCustomerVN);
-        Customer[] customerVietnamese = new Customer[numberCustomerVN];
-        for(int i = 0; i < numberCustomerVN; i++) {
-            System.out.println("*************************************");
-            System.out.println("Nhập khách hàng việt nam thứ " + (i + 1) + " : ");
-            customerVietnamese[i] = new CustomerVietnamese();
-            customerVietnamese[i].input();
+        Scanner scanner = new Scanner(System.in);
+        int numberVN = 0, numberNG = 0;
+        String objCustomer = null;
+                Bill bill = new Bill();
+        BillVietnamese vn = new BillVietnamese();
+        BillForeign fn = new BillForeign();
+        Repository repository = new Repository();
+        System.out.println("Mời bạn nhấp số hóa đợn của khách hàng việt nam : ");
+        numberVN = bill.intNumber();
+        BillVietnamese[] vietnameses = new BillVietnamese[numberVN];
+
+        for(int i = 0; i < numberVN; i++ ) {
+            System.out.println("Khách hàng thứ " + (i+1) + " : ");
+            vietnameses[i] = new BillVietnamese();
+            vietnameses[i].input();
+            System.out.println("\n******************************\n");
         }
-        System.out.print("Mời bạn nhập số khách hàng Nước ngoài :  ");
-        numberCustomerNG = customer.intNumber();
-        Customer[] customerForeing = new Customer[numberCustomerNG];
-        for(int i = 0; i < numberCustomerNG; i++) {
-            System.out.println("*************************************");
-            System.out.println("Nhập khách hàng nước ngoài thứ thứ " + (i + 1) + " : ");
-            customerForeing[i] = new CustomerForeign();
-            customerForeing[i].input();
+        repository.setListBillVienNam(Arrays.asList(vietnameses));
+        System.out.println("Mời bạn nhấp số hóa đơn của khách hàng nước ngoài : ");
+        numberNG = bill.intNumber();
+        BillForeign[] foreigns = new BillForeign[numberNG];
+        for(int i = 0; i < numberNG; i++ ) {
+            System.out.println("Khách hàng thứ " + (i+1) + " : ");
+            foreigns[i] = new BillForeign();
+            foreigns[i].input();
+            System.out.println("\n******************************\n");
         }
-        System.out.println("**********************************************************");
-        System.out.print("Tổng số lượng KW tiêu thụ của khác hàng nước ngoài là : ");
-        for(int i = 0; i < numberCustomerNG; i++ ) {
-            System.out.print(sumAmountVN += customerForeing[i].sumAmount());
+        repository.setListBillForeing(Arrays.asList(foreigns));
+        System.out.println("******************************************");
+        System.out.println("Xuất ra tất cả các hóa đơn : ");
+        for(BillVietnamese vietnamese : vietnameses) {
+            System.out.println(vietnamese.toString());
         }
-        System.out.println();
-        System.out.print("Tổng số lượng KW tiêu thụ của khách hành việt nam là : " );
-        for(int i = 0; i < numberCustomerVN; i++ ) {
-            System.out.print(sumAmountNG += customerVietnamese[i].sumAmount());
+        for(BillForeign foreign : foreigns) {
+            System.out.println(foreign.toString());
         }
-        System.out.println();
-        System.out.println("**************************************************************");
-        System.out.println("Thông tin của tất cả các khách hàng là : ");
-        for(int i = 0; i <  numberCustomerNG; i++) {
-            System.out.println();
-            System.out.println("Khách hàng thứ " +  (i + 1) + " : ");
-            System.out.println(customerForeing[i].toString());
-        }
-        for(int i = 0; i <  numberCustomerVN; i++) {
-            System.out.println();
-            System.out.println("Khách hàng thứ " +  (i + 1) + " : ");
-            System.out.println(customerVietnamese[i].toString());
-        }
-        System.out.println("\n***********************************************************");
-        System.out.println("Trung binh tiền của khách hàng nước ngoài là : ");
-        for(int i = 0; i < numberCustomerNG; i++) {
-            totalPrice += customerForeing[i].sumPrice();
-        }
-        System.out.print( mediumPrice = totalPrice / (numberCustomerNG + numberCustomerVN));
-        System.out.println();
-        System.out.println("**********************************************************s");
-        System.out.printf("Xuất ra hóa đơn của các khác hàng trong tháng 09 năm 2013 là : ");
-        for (int i = 0; i < numberCustomerVN; i++) {
-            if(customerVietnamese[i].getMonth() == 9 && customerVietnamese[i].getYear() == 2013) {
-                customerVietnamese[i].toString();
-            }
-        }
-        for (int i = 0; i < numberCustomerNG; i++) {
-            if(customerForeing[i].getMonth() == 9 && customerForeing[i].getYear() == 2013) {
-                customerForeing[i].toString();
-            }
-        }
+
+        System.out.println("*******************************************");
+//        xuất ra số lượng hóa đơn của khách nước ngoài và việt nam
+        repository.numberUnit();
+
+        System.out.println("********************************************");
+//        tính số tiền trung binh của khách nước ngoài
+        repository.averagePayFG();
+
+        System.out.println("********************************************");
+//        tìm những hóa đơn có trong tháng 9 và năm 2013
+        repository.findCustomer(9, 2013);
     }
 
 }
+

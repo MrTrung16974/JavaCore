@@ -1,31 +1,33 @@
 package electricBillManager;
 
-public class CustomerForeign extends Customer {
+
+public class BillForeign extends Bill {
     private String nationality;
-    private int amount;
+    private int number;
     private int unitPrice;
     private int quota;
     private float intoMony;
 
-    public CustomerForeign() {
+    public BillForeign() {
     }
-    public CustomerForeign(int maKH, String name, int day, int month, int year, String nationality, int amount,int quota, int unitPrice) {
-        super(maKH, name, day, month, year);
+
+    public BillForeign(int maKH, String name, Date date, String nationality, int number, int unitPrice, int quota, float intoMony) {
+        super(maKH, name, date);
         this.nationality = nationality;
-        this.amount = amount;
+        this.number = number;
         this.unitPrice = unitPrice;
         this.quota = quota;
+        this.intoMony = intoMony;
     }
 
     @Override
     public void input(){
         System.out.println("Khách hàng nước ngoài : ");
         super.input();
-        scanner.nextLine();
         System.out.println("Mời bạn nhập quốc tịch của khách hàng : ");
         nationality = scanner.nextLine();
         System.out.println("Mời bạn nhập số số lượng tiêu thụ : ");
-        amount = intNumber();
+        number = intNumber();
         System.out.println("Mời bạn nhập đơn giá điện : ");
         unitPrice = intNumber();
         System.out.println("Mời bạn nhập định mức : ");
@@ -33,11 +35,17 @@ public class CustomerForeign extends Customer {
     }
 
     @Override
+    public float sumPrice() {
+        intoMony = (float)(number * unitPrice);
+        return intoMony;
+    }
+
+    @Override
     public String toString() {
-        return super.toString() +
-                "CustomerForeign{" +
+        return "CustomerForeign{" +
+                super.toString() +
                 "nationality='" + nationality + '\'' +
-                ", amount=" + amount +
+                ", amount=" + number +
                 ", unitPrice=" + unitPrice +
                 ", intoMony=" + intoMony +
                 '}';
@@ -51,12 +59,12 @@ public class CustomerForeign extends Customer {
         this.nationality = nationality;
     }
 
-    public int getAmount() {
-        return amount;
+    public int getNumber() {
+        return number;
     }
 
-    public void setAmount(int amount) {
-        this.amount = amount;
+    public void setNumber(int number) {
+        this.number = number;
     }
 
     public int getUnitPrice() {
@@ -67,16 +75,4 @@ public class CustomerForeign extends Customer {
         this.unitPrice = unitPrice;
     }
 
-    @Override
-    public int sumAmount() {
-        int sumAmount = 0;
-        sumAmount =  this.amount;
-        return sumAmount;
-    }
-
-    @Override
-    public float sumPrice() {
-        this.intoMony = amount * unitPrice;
-        return this.intoMony;
-    }
 }

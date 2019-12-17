@@ -2,46 +2,78 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="b8eade02-f7eb-4859-a842-e53c8b587a8b" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/BookManageSystem/.idea/description.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/BookManageSystem/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/BookManageSystem/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/BookManageSystem/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/BookManageSystem/.idea/project-template.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/BookManageSystem/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/BookManageSystem/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/BookManageSystem/BookManageSystem.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/BookManageSystem/out/production/BookManageSystem/com/company/Author.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/BookManageSystem/out/production/BookManageSystem/com/company/Book.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/BookManageSystem/out/production/BookManageSystem/com/company/Main$1.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/BookManageSystem/out/production/BookManageSystem/com/company/Main.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/BookManageSystem/out/production/BookManageSystem/com/company/MyBook.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/BookManageSystem/src/com/company/Author.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/BookManageSystem/src/com/company/Book.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/BookManageSystem/src/com/company/Category.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/BookManageSystem/src/com/company/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/BookManageSystem/src/com/company/MyBook.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/EmployeeManager/main1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/T3H/GameRescueThePrincess/Admin.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/T3H/GameRescueThePrincess/Dragon.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/T3H/GameRescueThePrincess/Hero.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/T3H/GameRescueThePrincess/Princess.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/T3H/GameRescueThePrincess/main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Transfare/acount.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Transfare/main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/checkYear/Date.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/checkYear/main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/electricBillManager/Customer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/electricBillManager/CustomerForeign.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/electricBillManager/CustomerVietnamese.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/electricBillManager/main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/JavaCore/Date/Date1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/JavaCore/META-INF/JavaCore.kotlin_module" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/JavaCore/T3H/GameRescueThePrincess/Application.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/JavaCore/T3H/GameRescueThePrincess/Archer.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/JavaCore/T3H/GameRescueThePrincess/Constant.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/JavaCore/T3H/GameRescueThePrincess/Dragon.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/JavaCore/T3H/GameRescueThePrincess/Hero.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/JavaCore/T3H/GameRescueThePrincess/Magician.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/JavaCore/T3H/GameRescueThePrincess/Princess.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/JavaCore/T3H/GameRescueThePrincess/Warrior.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/JavaCore/T3H/GameRescueThePrincess/main.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/JavaCore/electricBillManager/Bill.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/JavaCore/electricBillManager/BillForeign.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/JavaCore/electricBillManager/BillVietnamese.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/JavaCore/electricBillManager/CustomerBusiness.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/JavaCore/electricBillManager/CustomerLiving.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/JavaCore/electricBillManager/CustomerManufacturing.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/JavaCore/electricBillManager/Date.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/JavaCore/electricBillManager/Repository.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/JavaCore/overWriteElectBillManager/Bill.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/JavaCore/overWriteElectBillManager/BillForeign.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/JavaCore/overWriteElectBillManager/BillVietNam.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/JavaCore/overWriteElectBillManager/Customer.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/JavaCore/overWriteElectBillManager/Repository.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/JavaCore/overWriteElectBillManager/main.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Date/Date1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Depandecy/QuickSortAlgorithm.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Depandecy/SortAlgorithm.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Depandecy/VeryComplexService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Depandecy/bubblueSortAlgointhm.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Depandecy/main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Depandency.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/T3H/GameRescueThePrincess/Application.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/T3H/GameRescueThePrincess/Archer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/T3H/GameRescueThePrincess/Constant.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/T3H/GameRescueThePrincess/Magician.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/T3H/GameRescueThePrincess/Warrior.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/electricBillManager/Bill.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/electricBillManager/BillVietnamese.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/electricBillManager/CustomerBusiness.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/electricBillManager/CustomerLiving.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/electricBillManager/CustomerManufacturing.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/electricBillManager/Date.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/electricBillManager/Repository.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/overWriteElectBillManager/Bill.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/overWriteElectBillManager/BillForeign.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/overWriteElectBillManager/BillVietNam.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/overWriteElectBillManager/Customer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/overWriteElectBillManager/Repository.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/overWriteElectBillManager/main.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaCore/BookManagement/main.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaCore/BookManagement/main.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaCore/EmployeeManager/main.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaCore/EmployeeManager/main.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaCore/META-INF/JavaCore.kotlin_module" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/BookManagement/main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/BookManagement/main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/EmployeeManager/main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/EmployeeManager/main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaCore/Transfare/acount.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaCore/Transfare/acount.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaCore/Transfare/main.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaCore/Transfare/main.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaCore/checkYear/Date.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaCore/checkYear/Date.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaCore/checkYear/main.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaCore/checkYear/main.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaCore/electricBillManager/Customer.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaCore/electricBillManager/Customer.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaCore/electricBillManager/CustomerForeign.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaCore/electricBillManager/CustomerVietnamese.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaCore/electricBillManager/main.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaCore/electricBillManager/main.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/T3H/GameRescueThePrincess/Admin.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/T3H/GameRescueThePrincess/Dragon.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/T3H/GameRescueThePrincess/Dragon.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/T3H/GameRescueThePrincess/Hero.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/T3H/GameRescueThePrincess/Hero.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/T3H/GameRescueThePrincess/Princess.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/T3H/GameRescueThePrincess/Princess.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Transfare/acount.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Transfare/acount.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Transfare/main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Transfare/main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/checkYear/Date.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/checkYear/Date.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/checkYear/main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/checkYear/main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/electricBillManager/Customer.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/electricBillManager/Customer.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/electricBillManager/CustomerForeign.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/electricBillManager/BillForeign.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/electricBillManager/CustomerVietnamese.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/electricBillManager/main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/electricBillManager/main.java" afterDir="false" />
     </list>
-    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -76,12 +108,20 @@
   <component name="ProjectLevelVcsManager">
     <ConfirmationsSetting value="2" id="Add" />
   </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
   <component name="PropertiesComponent">
     <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
+    <property name="DatabaseDriversLRU" value="sqlserver" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="$USER_HOME$/eclipse-workspace/WEB_SERVLET" />
+    <property name="create.test.in.the.same.root" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
     <property name="node.js.path.for.package.eslint" value="project" />
@@ -92,25 +132,39 @@
     <property name="run.code.analysis.last.selected.profile" value="pProject Default" />
     <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
   </component>
-  <component name="RunDashboard">
-    <option name="ruleStates">
-      <list>
-        <RuleState>
-          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
-        </RuleState>
-        <RuleState>
-          <option name="name" value="StatusDashboardGroupingRule" />
-        </RuleState>
-      </list>
-    </option>
-  </component>
-  <component name="RunManager" selected="Application.main (5)">
+  <component name="RunManager" selected="Application.main (1)">
+    <configuration name="Application" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="T3H.GameRescueThePrincess.Application" />
+      <module name="JavaCore" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="T3H.GameRescueThePrincess.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Date1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Date.Date1" />
+      <module name="JavaCore" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Date.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="main (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="BookManagement.main" />
+      <option name="MAIN_CLASS_NAME" value="Depandecy.main" />
       <module name="JavaCore" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="BookManagement.*" />
+          <option name="PATTERN" value="Depandecy.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -118,25 +172,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="main (2)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="EmployeeManager.main" />
+    <configuration name="main (3)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="overWriteElectBillManager.main" />
       <module name="JavaCore" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="EmployeeManager.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="main (4)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="checkYear.main" />
-      <module name="JavaCore" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="checkYear.*" />
+          <option name="PATTERN" value="overWriteElectBillManager.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -157,28 +198,27 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Transfare.main" />
-      <module name="JavaCore" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="electricBillManager.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.main (5)" />
-        <item itemvalue="Application.main (2)" />
-        <item itemvalue="Application.main (4)" />
-        <item itemvalue="Application.main" />
         <item itemvalue="Application.main (1)" />
+        <item itemvalue="Application.Application" />
+        <item itemvalue="Application.main (5)" />
+        <item itemvalue="Application.main (3)" />
+        <item itemvalue="Application.Date1" />
       </list>
     </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
   </component>
   <component name="SvnConfiguration">
     <configuration />
@@ -254,6 +294,32 @@
       <workItem from="1575974368365" duration="6843000" />
       <workItem from="1575982512093" duration="2975000" />
       <workItem from="1575986427021" duration="331000" />
+      <workItem from="1576041856191" duration="1651000" />
+      <workItem from="1576044155253" duration="600000" />
+      <workItem from="1576066239884" duration="1227000" />
+      <workItem from="1576072668782" duration="70000" />
+      <workItem from="1576072953730" duration="27000" />
+      <workItem from="1576073177271" duration="341000" />
+      <workItem from="1576073876483" duration="529000" />
+      <workItem from="1576074621949" duration="223000" />
+      <workItem from="1576075027830" duration="2512000" />
+      <workItem from="1576127921365" duration="2196000" />
+      <workItem from="1576148887078" duration="10898000" />
+      <workItem from="1576164775961" duration="5652000" />
+      <workItem from="1576214483843" duration="1931000" />
+      <workItem from="1576223019251" duration="14000" />
+      <workItem from="1576235962112" duration="606000" />
+      <workItem from="1576237187533" duration="2665000" />
+      <workItem from="1576249682113" duration="265000" />
+      <workItem from="1576301211273" duration="1291000" />
+      <workItem from="1576304208272" duration="637000" />
+      <workItem from="1576322965928" duration="602000" />
+      <workItem from="1576324853613" duration="15893000" />
+      <workItem from="1576388418604" duration="971000" />
+      <workItem from="1576412575860" duration="2386000" />
+      <workItem from="1576416280590" duration="626000" />
+      <workItem from="1576493941599" duration="9693000" />
+      <workItem from="1576563765303" duration="19000" />
     </task>
     <servers />
   </component>
@@ -275,6 +341,72 @@
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="274" y="24" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1576501127168">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="274" y="24" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1366.728@0.0.1366.728" timestamp="1576501127168" />
+    <state x="488" y="82" key="#com.intellij.ide.util.MemberChooser" timestamp="1576498883586">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="488" y="82" key="#com.intellij.ide.util.MemberChooser/0.0.1366.728@0.0.1366.728" timestamp="1576498883586" />
+    <state x="322" y="0" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog" timestamp="1576215096778">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="322" y="0" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog/0.0.1366.728@0.0.1366.728" timestamp="1576215096778" />
+    <state x="463" y="121" key="FileChooserDialogImpl" timestamp="1576413759679">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="463" y="121" key="FileChooserDialogImpl/0.0.1366.728@0.0.1366.728" timestamp="1576413759679" />
+    <state width="1323" height="469" key="GridCell.Tab.0.bottom" timestamp="1576505892458">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="469" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1576505892458" />
+    <state width="1323" height="469" key="GridCell.Tab.0.center" timestamp="1576505892457">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="469" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1576505892457" />
+    <state width="1323" height="469" key="GridCell.Tab.0.left" timestamp="1576505892457">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="469" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1576505892457" />
+    <state width="1323" height="469" key="GridCell.Tab.0.right" timestamp="1576505892457">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="469" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1576505892457" />
+    <state width="1323" height="223" key="GridCell.Tab.1.bottom" timestamp="1576342663451">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="223" key="GridCell.Tab.1.bottom/0.0.1366.728@0.0.1366.728" timestamp="1576342663451" />
+    <state width="1323" height="223" key="GridCell.Tab.1.center" timestamp="1576342663450">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="223" key="GridCell.Tab.1.center/0.0.1366.728@0.0.1366.728" timestamp="1576342663450" />
+    <state width="1323" height="223" key="GridCell.Tab.1.left" timestamp="1576342663450">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="223" key="GridCell.Tab.1.left/0.0.1366.728@0.0.1366.728" timestamp="1576342663450" />
+    <state width="1323" height="223" key="GridCell.Tab.1.right" timestamp="1576342663451">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="223" key="GridCell.Tab.1.right/0.0.1366.728@0.0.1366.728" timestamp="1576342663451" />
+    <state x="65" y="0" key="new project wizard" timestamp="1576249939891">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="65" y="0" key="new project wizard/0.0.1366.728@0.0.1366.728" timestamp="1576249939891" />
+    <state x="391" y="0" key="refactoring.ChangeSignatureDialog" timestamp="1576168058838">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="391" y="0" key="refactoring.ChangeSignatureDialog/0.0.1366.728@0.0.1366.728" timestamp="1576168058838" />
+    <state x="339" y="162" key="run.anything.popup" timestamp="1576499553495">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="339" y="162" key="run.anything.popup/0.0.1366.728@0.0.1366.728" timestamp="1576499553495" />
+    <state x="346" y="49" width="672" height="678" key="search.everywhere.popup" timestamp="1576505618649">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="346" y="49" width="672" height="678" key="search.everywhere.popup/0.0.1366.728@0.0.1366.728" timestamp="1576505618649" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>

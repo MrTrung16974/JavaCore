@@ -1,14 +1,20 @@
 package Transfare;
 
+import static java.awt.Color.black;
+
 public class acount {
     private int id;
     private String name;
-    private int balance;
+    private double balance;
 
-    public acount(int id, String name, int balance) {
+    public acount(int id, String name, double balance) {
         this.id = id;
         this.name = name;
         this.balance = balance;
+    }
+
+    public acount() {
+
     }
 
     public int getId() {
@@ -27,40 +33,40 @@ public class acount {
         this.name = name;
     }
 
-    public int getBalance() {
+    public double getBalance() {
         return balance;
     }
 
-    public void setBalance(int balance) {
+    public void setBalance(double balance) {
         this.balance = balance;
     }
 
-    public int credit(int amount ) {
-        if(amount % 2== 0) {
-            this.balance += amount;
-        }else {
-            System.out.println("Bạn phải truyền vào số dương");
+    public void credit(int amount ) {
+        if(amount < 0) {
+            System.out.println("Số tiền của bạn chuyền vào số tiền âm");
+            return ;
         }
-        return this.balance;
+        this.setBalance(this.getBalance() + amount);
+        System.out.println("Số dư trong tài khoản của " + this.name + " : " + this.balance );
     }
 
-    public int debit(int amount) {
-        if(this.balance > amount && this.balance != 0 ) {
-            this.balance -= amount;
-        }else {
-            System.out.println("Bạn không thể thanh toán số tiên lớn hơn số tiền trong tài khoản");
+    public void debit(int amount) {
+        if(amount < 0 || amount > this.balance ) {
+            System.out.println("Số tiền tiền ko hợp lệ");
+            return;
         }
-        return this.balance;
+        this.setBalance(this.getBalance() - amount);
+        System.out.println("Số dư trong tài khoản của " + this.name + " : " + this.balance );
     }
-    public int tranferTo(acount act, int amount) {
-        if(this.balance > amount && this.balance != 0 ) {
-            this.balance -= amount;
-            int mony = act.getBalance();
-            mony += amount;
-        }else {
-            System.out.println("Lỗi ko thể chuyển tiền");
+    public void tranferTo(acount act, int amount) {
+        if(amount < 0 || amount > this.balance ) {
+            System.out.println("Số tiền muốn chuyễn ko hợp lệ");
+            return;
         }
-        return this.balance ;
+        this.setBalance(getBalance() - amount);
+        act.setBalance(act.getBalance() + amount);
+        System.out.println("Số dư trong tài khoản của " + this.name + " : " + this.balance );
+        System.out.println("Số dư trong tài khoản của " + act.name + " : " + act.balance );
     }
 
 }
