@@ -11,17 +11,18 @@ public class Application {
             System.out.println("Hiệp đấu thư " + roud);
             if(roud % 2 == 0) {
                 int trueDame = magician.totalDame(dragon);
-                System.out.println("Lượng sát thương gây ra cho rồng là : " + trueDame);
+                System.out.println("Lượng sát thương gây ra cho Dragon là : " + trueDame);
                 dragon.decreaseHP(trueDame,  Constant.DAME_PHYSICAL);
             }else {
                 int trueDame = dragon.totalDame(magician);
-                System.out.println("Lượng sát thương gây ra hero là : " + trueDame);
+                System.out.println("Lượng sát thương gây ra cho MagicCal là : " + trueDame);
                 magician.decreaseHP(trueDame);
             }
             roud++;
         }
         if(magician.getHP() > 0) {
-            System.out.println("Cứu được công chúa");
+            System.out.println("\n*************************************");
+            System.out.println("Cứu được công chúa " + new Princess().name);
         }else {
             System.out.println("End Game");
         }

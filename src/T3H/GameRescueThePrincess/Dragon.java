@@ -2,7 +2,9 @@ package T3H.GameRescueThePrincess;
 
 public class Dragon {
     private int HP = 1000;
+//    thủ của rồng
     private int armor = 30;
+//    kháng phép của rồng
     private int antiMagical = 20; //%
 
     private int crit = 20; // %
@@ -60,9 +62,10 @@ public class Dragon {
         this.damage = damage;
     }
 
+//    dame của dragon tấn công hero
     public int totalDame(Hero hero)  {
-        int number = Constant.random.nextInt(10);
-        if(number < 2) {
+        int number = Constant.random.nextInt(100);
+        if(number < 20) {
             return this.damage * 2;
         }
         return this.damage;
@@ -78,13 +81,15 @@ public class Dragon {
 //        this.HP -= trueDame;
 //    }
 
+//    lượng sát thương gây ra của hero cho rồng
     public void decreaseHP(int damage, int type) {
         int trueDame = 0;
-        if(type == Constant.DAME_PHYSICAL) {
-            trueDame -= (int)(damage*0.8);
+        if(type == Constant.DAME_MAGICAL) {
+            trueDame = (int)(damage*0.8);
         }else {
-            trueDame -= (int)(damage*0.7);
+            trueDame = (int)(damage*0.7);
         }
+        this.HP -= trueDame;
         System.out.println("Máu hiên tại của Dragon MANAX là " + this.HP);
     }
 }

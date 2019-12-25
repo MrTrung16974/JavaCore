@@ -1,5 +1,7 @@
 package cuaChinh;
 
+import DependecyInjection.Girl;
+
 public class main {
     public static void main(String[] args) {
         student s1 = new student("trung", 170);

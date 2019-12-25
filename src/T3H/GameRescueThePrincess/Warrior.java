@@ -19,7 +19,7 @@ public class Warrior extends Hero{
         this.armor = armor;
     }
 
-//    trừ máu của nhận vặt
+//    lực sát thương gấy ra từ dragon
     public void decreaseHP(int dame) {
         this.HP -= dame*0.7;
         System.out.println("Máu hiện tại của nhân vật là " + this.HP);

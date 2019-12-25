@@ -1,5 +1,6 @@
 package collection;
 
+import DependecyInjection.Girl;
 import jdk.nashorn.internal.objects.NativeUint8Array;
 import org.omg.PortableInterceptor.INACTIVE;
 
@@ -7,6 +8,7 @@ import java.util.*;
 
 public class collection {
     public static void main(String[] args) {
+
 //        mảng tĩnh
 //        String[] str = new String[];
 

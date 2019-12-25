@@ -48,7 +48,7 @@ public class Hero {
         Mana = mana;
     }
 
-//
+// skill hồi máu của hero
     public void Regen(int totalDamege) {
         if(this.Mana < Constant.MANA_SKILL) {
             System.out.println("Mana của bạn không đủ để hồi màu");
@@ -56,7 +56,7 @@ public class Hero {
         }
         this.HP += totalDamege;
         if(this.HP > Constant.MAX_HP) {
-            this.HP += Constant.MAX_HP;
+            this.HP = Constant.MAX_HP;
         }
         this.Mana -= 10;
         System.out.println("Máu hiện tại của nhân vật là " + this.HP);

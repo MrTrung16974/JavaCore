@@ -2,77 +2,37 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="b8eade02-f7eb-4859-a842-e53c8b587a8b" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/out/production/JavaCore/Date/Date1.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/JavaCore/META-INF/JavaCore.kotlin_module" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/JavaCore/T3H/GameRescueThePrincess/Application.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/JavaCore/T3H/GameRescueThePrincess/Archer.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/JavaCore/T3H/GameRescueThePrincess/Constant.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/JavaCore/T3H/GameRescueThePrincess/Dragon.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/JavaCore/T3H/GameRescueThePrincess/Hero.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/JavaCore/T3H/GameRescueThePrincess/Magician.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/JavaCore/T3H/GameRescueThePrincess/Princess.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/JavaCore/T3H/GameRescueThePrincess/Warrior.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/JavaCore/T3H/GameRescueThePrincess/main.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/JavaCore/electricBillManager/Bill.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/JavaCore/electricBillManager/BillForeign.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/JavaCore/electricBillManager/BillVietnamese.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/JavaCore/electricBillManager/CustomerBusiness.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/JavaCore/electricBillManager/CustomerLiving.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/JavaCore/electricBillManager/CustomerManufacturing.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/JavaCore/electricBillManager/Date.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/JavaCore/electricBillManager/Repository.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/JavaCore/overWriteElectBillManager/Bill.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/JavaCore/overWriteElectBillManager/BillForeign.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/JavaCore/overWriteElectBillManager/BillVietNam.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/JavaCore/overWriteElectBillManager/Customer.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/JavaCore/overWriteElectBillManager/Repository.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/JavaCore/overWriteElectBillManager/main.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Date/Date1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Depandecy/QuickSortAlgorithm.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Depandecy/SortAlgorithm.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Depandecy/VeryComplexService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Depandecy/bubblueSortAlgointhm.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Depandecy/main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Depandency.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/T3H/GameRescueThePrincess/Application.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/T3H/GameRescueThePrincess/Archer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/T3H/GameRescueThePrincess/Constant.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/T3H/GameRescueThePrincess/Magician.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/T3H/GameRescueThePrincess/Warrior.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/electricBillManager/Bill.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/electricBillManager/BillVietnamese.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/electricBillManager/CustomerBusiness.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/electricBillManager/CustomerLiving.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/electricBillManager/CustomerManufacturing.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/electricBillManager/Date.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/electricBillManager/Repository.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/overWriteElectBillManager/Bill.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/overWriteElectBillManager/BillForeign.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/overWriteElectBillManager/BillVietNam.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/overWriteElectBillManager/Customer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/overWriteElectBillManager/Repository.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/overWriteElectBillManager/main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/DependecyInjection/Girl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/DependecyInjection/Outfix.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/DependecyInjection/main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Reflection/Appnlication.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Reflection/Employee.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Reflection/Girl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Reflection/Main1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Reflection/Normalizer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Reflection/NotEmptg.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Reflection/jsonName.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Reflection/main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Reflection/student.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Reflection/superMan.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaCore/Transfare/acount.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaCore/Transfare/acount.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaCore/Transfare/main.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaCore/Transfare/main.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaCore/checkYear/Date.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaCore/checkYear/Date.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaCore/checkYear/main.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaCore/checkYear/main.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaCore/electricBillManager/Customer.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaCore/electricBillManager/Customer.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaCore/electricBillManager/CustomerForeign.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaCore/electricBillManager/CustomerVietnamese.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaCore/electricBillManager/main.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaCore/electricBillManager/main.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/T3H/GameRescueThePrincess/Admin.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaCore/T3H/GameRescueThePrincess/Application.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaCore/T3H/GameRescueThePrincess/Application.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaCore/T3H/GameRescueThePrincess/Dragon.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaCore/T3H/GameRescueThePrincess/Dragon.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaCore/T3H/GameRescueThePrincess/Hero.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaCore/T3H/GameRescueThePrincess/Hero.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaCore/T3H/GameRescueThePrincess/Magician.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaCore/T3H/GameRescueThePrincess/Magician.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaCore/T3H/GameRescueThePrincess/Princess.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaCore/T3H/GameRescueThePrincess/Princess.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaCore/T3H/GameRescueThePrincess/main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaCore/collection/collection.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaCore/collection/collection.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaCore/cuaChinh/main.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaCore/cuaChinh/main.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/T3H/GameRescueThePrincess/Application.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/T3H/GameRescueThePrincess/Application.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/T3H/GameRescueThePrincess/Dragon.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/T3H/GameRescueThePrincess/Dragon.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/T3H/GameRescueThePrincess/Hero.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/T3H/GameRescueThePrincess/Hero.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/T3H/GameRescueThePrincess/Magician.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/T3H/GameRescueThePrincess/Magician.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/T3H/GameRescueThePrincess/Princess.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/T3H/GameRescueThePrincess/Princess.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Transfare/acount.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Transfare/acount.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Transfare/main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Transfare/main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/checkYear/Date.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/checkYear/Date.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/checkYear/main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/checkYear/main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/electricBillManager/Customer.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/electricBillManager/Customer.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/electricBillManager/CustomerForeign.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/electricBillManager/BillForeign.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/electricBillManager/CustomerVietnamese.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/electricBillManager/main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/electricBillManager/main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/T3H/GameRescueThePrincess/Warrior.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/T3H/GameRescueThePrincess/Warrior.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/T3H/GameRescueThePrincess/main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/collection/collection.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/collection/collection.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/cuaChinh/main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/cuaChinh/main.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -97,6 +57,7 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="Interface" />
+        <option value="AnnotationType" />
         <option value="Class" />
       </list>
     </option>
@@ -130,15 +91,27 @@
     <property name="node.js.selected.package.tslint" value="(autodetect)" />
     <property name="nodejs_package_manager_path" value="npm" />
     <property name="run.code.analysis.last.selected.profile" value="pProject Default" />
-    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
+    <property name="settings.editor.selected.configurable" value="MTConfigurable" />
   </component>
-  <component name="RunManager" selected="Application.main (1)">
-    <configuration name="Application" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="T3H.GameRescueThePrincess.Application" />
+  <component name="RecentsManager">
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="Reflection" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.Main1">
+    <configuration name="Application (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Application" />
+      <module name="JavaCore" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Appnlication" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Reflection.Appnlication" />
       <module name="JavaCore" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="T3H.GameRescueThePrincess.*" />
+          <option name="PATTERN" value="Reflection.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -146,12 +119,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Date1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Date.Date1" />
+    <configuration name="Main1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Reflection.Main1" />
       <module name="JavaCore" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Date.*" />
+          <option name="PATTERN" value="Reflection.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -159,12 +132,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="main (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Depandecy.main" />
+    <configuration name="main (2)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Reflection.main" />
       <module name="JavaCore" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Depandecy.*" />
+          <option name="PATTERN" value="Reflection.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -172,25 +145,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="main (3)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="overWriteElectBillManager.main" />
+    <configuration name="main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="DependecyInjection.main" />
       <module name="JavaCore" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="overWriteElectBillManager.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="main (5)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="electricBillManager.main" />
-      <module name="JavaCore" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="electricBillManager.*" />
+          <option name="PATTERN" value="DependecyInjection.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -200,11 +160,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.main (1)" />
-        <item itemvalue="Application.Application" />
-        <item itemvalue="Application.main (5)" />
-        <item itemvalue="Application.main (3)" />
-        <item itemvalue="Application.Date1" />
+        <item itemvalue="Application.Main1" />
+        <item itemvalue="Application.main (2)" />
+        <item itemvalue="Application.Appnlication" />
+        <item itemvalue="Application.Application (1)" />
+        <item itemvalue="Application.main" />
       </list>
     </recent_temporary>
   </component>
@@ -320,6 +280,24 @@
       <workItem from="1576416280590" duration="626000" />
       <workItem from="1576493941599" duration="9693000" />
       <workItem from="1576563765303" duration="19000" />
+      <workItem from="1576563837458" duration="5864000" />
+      <workItem from="1576570008796" duration="1695000" />
+      <workItem from="1576753545828" duration="5025000" />
+      <workItem from="1576767790592" duration="150000" />
+      <workItem from="1576767995490" duration="593000" />
+      <workItem from="1576769132134" duration="2207000" />
+      <workItem from="1576841383157" duration="1963000" />
+      <workItem from="1576853944310" duration="67000" />
+      <workItem from="1577016321340" duration="2800000" />
+      <workItem from="1577102422112" duration="7856000" />
+      <workItem from="1577115562746" duration="2779000" />
+      <workItem from="1577164908064" duration="1003000" />
+      <workItem from="1577168716704" duration="359000" />
+      <workItem from="1577169183391" duration="231000" />
+      <workItem from="1577169483246" duration="64000" />
+      <workItem from="1577169636177" duration="557000" />
+      <workItem from="1577200965355" duration="3198000" />
+      <workItem from="1577273889454" duration="2641000" />
     </task>
     <servers />
   </component>
@@ -343,58 +321,94 @@
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
   </component>
   <component name="WindowStateProjectService">
+    <state x="275" y="24" key="#Inspections" timestamp="1577108266478">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="275" y="24" key="#Inspections/0.0.1366.728@0.0.1366.728" timestamp="1577108266477" />
+    <state x="275" y="21" key="#Notifications" timestamp="1577201129662">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="275" y="21" key="#Notifications/0.0.1366.728@0.0.1366.728" timestamp="1577201129662" />
     <state x="274" y="24" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1576501127168">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="274" y="24" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1366.728@0.0.1366.728" timestamp="1576501127168" />
-    <state x="488" y="82" key="#com.intellij.ide.util.MemberChooser" timestamp="1576498883586">
+    <state x="488" y="78" key="#com.intellij.ide.util.MemberChooser" timestamp="1577274914928">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="488" y="82" key="#com.intellij.ide.util.MemberChooser/0.0.1366.728@0.0.1366.728" timestamp="1576498883586" />
+    <state x="488" y="78" key="#com.intellij.ide.util.MemberChooser/0.0.1366.728@0.0.1366.728" timestamp="1577274914928" />
+    <state x="387" y="39" key="#com.intellij.refactoring.encapsulateFields.EncalpsulateFieldsDialog" timestamp="1576841461102">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="387" y="39" key="#com.intellij.refactoring.encapsulateFields.EncalpsulateFieldsDialog/0.0.1366.728@0.0.1366.728" timestamp="1576841461102" />
     <state x="322" y="0" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog" timestamp="1576215096778">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="322" y="0" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog/0.0.1366.728@0.0.1366.728" timestamp="1576215096778" />
-    <state x="463" y="121" key="FileChooserDialogImpl" timestamp="1576413759679">
+    <state x="413" y="113" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1576842746376">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="463" y="121" key="FileChooserDialogImpl/0.0.1366.728@0.0.1366.728" timestamp="1576413759679" />
-    <state width="1323" height="469" key="GridCell.Tab.0.bottom" timestamp="1576505892458">
+    <state x="413" y="113" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1366.728@0.0.1366.728" timestamp="1576842746376" />
+    <state x="463" y="121" key="FileChooserDialogImpl" timestamp="1577169934879">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1323" height="469" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1576505892458" />
-    <state width="1323" height="469" key="GridCell.Tab.0.center" timestamp="1576505892457">
+    <state x="463" y="121" key="FileChooserDialogImpl/0.0.1366.728@0.0.1366.728" timestamp="1577169934879" />
+    <state width="1323" height="154" key="GridCell.Tab.0.bottom" timestamp="1577275965812">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1323" height="469" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1576505892457" />
-    <state width="1323" height="469" key="GridCell.Tab.0.left" timestamp="1576505892457">
+    <state width="1323" height="154" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1577275965812" />
+    <state width="1323" height="154" key="GridCell.Tab.0.center" timestamp="1577275965812">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1323" height="469" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1576505892457" />
-    <state width="1323" height="469" key="GridCell.Tab.0.right" timestamp="1576505892457">
+    <state width="1323" height="154" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1577275965812" />
+    <state width="1323" height="154" key="GridCell.Tab.0.left" timestamp="1577275965811">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1323" height="469" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1576505892457" />
-    <state width="1323" height="223" key="GridCell.Tab.1.bottom" timestamp="1576342663451">
+    <state width="1323" height="154" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1577275965811" />
+    <state width="1323" height="154" key="GridCell.Tab.0.right" timestamp="1577275965812">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1323" height="223" key="GridCell.Tab.1.bottom/0.0.1366.728@0.0.1366.728" timestamp="1576342663451" />
-    <state width="1323" height="223" key="GridCell.Tab.1.center" timestamp="1576342663450">
+    <state width="1323" height="154" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1577275965812" />
+    <state width="1323" height="223" key="GridCell.Tab.1.bottom" timestamp="1577126567110">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1323" height="223" key="GridCell.Tab.1.center/0.0.1366.728@0.0.1366.728" timestamp="1576342663450" />
-    <state width="1323" height="223" key="GridCell.Tab.1.left" timestamp="1576342663450">
+    <state width="1323" height="223" key="GridCell.Tab.1.bottom/0.0.1366.728@0.0.1366.728" timestamp="1577126567110" />
+    <state width="1323" height="223" key="GridCell.Tab.1.center" timestamp="1577126567110">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1323" height="223" key="GridCell.Tab.1.left/0.0.1366.728@0.0.1366.728" timestamp="1576342663450" />
-    <state width="1323" height="223" key="GridCell.Tab.1.right" timestamp="1576342663451">
+    <state width="1323" height="223" key="GridCell.Tab.1.center/0.0.1366.728@0.0.1366.728" timestamp="1577126567110" />
+    <state width="1323" height="223" key="GridCell.Tab.1.left" timestamp="1577126567109">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1323" height="223" key="GridCell.Tab.1.right/0.0.1366.728@0.0.1366.728" timestamp="1576342663451" />
-    <state x="65" y="0" key="new project wizard" timestamp="1576249939891">
+    <state width="1323" height="223" key="GridCell.Tab.1.left/0.0.1366.728@0.0.1366.728" timestamp="1577126567109" />
+    <state width="1323" height="223" key="GridCell.Tab.1.right" timestamp="1577126567110">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="65" y="0" key="new project wizard/0.0.1366.728@0.0.1366.728" timestamp="1576249939891" />
+    <state width="1323" height="223" key="GridCell.Tab.1.right/0.0.1366.728@0.0.1366.728" timestamp="1577126567110" />
+    <state x="184" y="5" key="SettingsEditor" timestamp="1577275016242">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="184" y="5" key="SettingsEditor/0.0.1366.728@0.0.1366.728" timestamp="1577275016242" />
+    <state x="454" y="83" key="com.intellij.testIntegration.createTest.CreateTestDialog" timestamp="1576758909181">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="454" y="83" key="com.intellij.testIntegration.createTest.CreateTestDialog/0.0.1366.728@0.0.1366.728" timestamp="1576758909181" />
+    <state x="92" y="92" width="1182" height="544" key="dock-window-1" timestamp="1576842560434">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="92" y="92" width="1182" height="544" key="dock-window-1/0.0.1366.728@0.0.1366.728" timestamp="1576842560434" />
+    <state x="390" y="5" width="626" height="717" key="find.popup" timestamp="1577169017343">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="390" y="5" width="626" height="717" key="find.popup/0.0.1366.728@0.0.1366.728" timestamp="1577169017343" />
+    <state x="78" y="72" width="1235" height="656" key="new project wizard" timestamp="1576760787110">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="78" y="72" width="1235" height="656" key="new project wizard/0.0.1366.728@0.0.1366.728" timestamp="1576760787110" />
+    <state x="371" y="219" key="org.intellij.images.editor.actions.BackgroundImageDialog" timestamp="1577170028751">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="371" y="219" key="org.intellij.images.editor.actions.BackgroundImageDialog/0.0.1366.728@0.0.1366.728" timestamp="1577170028751" />
     <state x="391" y="0" key="refactoring.ChangeSignatureDialog" timestamp="1576168058838">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
@@ -403,10 +417,14 @@
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="339" y="162" key="run.anything.popup/0.0.1366.728@0.0.1366.728" timestamp="1576499553495" />
-    <state x="346" y="49" width="672" height="678" key="search.everywhere.popup" timestamp="1576505618649">
+    <state x="346" y="49" width="672" height="678" key="search.everywhere.popup" timestamp="1576564723777">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="346" y="49" width="672" height="678" key="search.everywhere.popup/0.0.1366.728@0.0.1366.728" timestamp="1576505618649" />
+    <state x="346" y="49" width="672" height="678" key="search.everywhere.popup/0.0.1366.728@0.0.1366.728" timestamp="1576564723777" />
+    <state x="405" y="268" key="vcs.readOnlyHandler.ReadOnlyStatusDialog" timestamp="1577202477277">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="405" y="268" key="vcs.readOnlyHandler.ReadOnlyStatusDialog/0.0.1366.728@0.0.1366.728" timestamp="1577202477277" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -414,7 +432,7 @@
         <line-breakpoint enabled="true" type="java-method">
           <url>file://$PROJECT_DIR$/src/clickBall/main.java</url>
           <line>3</line>
-          <properties class="clickBall.main" method="main">
+          <properties class="clickBall.main">
             <option name="EMULATED" value="true" />
           </properties>
           <option name="timeStamp" value="1" />
@@ -422,7 +440,7 @@
         <line-breakpoint enabled="true" type="java-method">
           <url>file://$PROJECT_DIR$/src/EmployeeManager/main.java</url>
           <line>3</line>
-          <properties class="EmployeeManager.main" method="main">
+          <properties class="EmployeeManager.main">
             <option name="EMULATED" value="true" />
           </properties>
           <option name="timeStamp" value="5" />
@@ -436,6 +454,26 @@
           <url>file://$PROJECT_DIR$/src/scope/Dog.java</url>
           <line>36</line>
           <option name="timeStamp" value="4" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Reflection/Appnlication.java</url>
+          <line>9</line>
+          <option name="timeStamp" value="10" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Reflection/Appnlication.java</url>
+          <line>12</line>
+          <option name="timeStamp" value="11" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Reflection/Appnlication.java</url>
+          <line>14</line>
+          <option name="timeStamp" value="12" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Reflection/Appnlication.java</url>
+          <line>15</line>
+          <option name="timeStamp" value="13" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>

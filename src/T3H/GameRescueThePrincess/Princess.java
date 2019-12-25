@@ -1,5 +1,13 @@
 package T3H.GameRescueThePrincess;
 
 public class Princess {
-    private String name;
+    public String name = "Anna";
+
+    public String getName() {
+        return name;
+    }
+
+    public void setName(String name) {
+        this.name = name;
+    }
 }
